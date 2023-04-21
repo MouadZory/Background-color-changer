@@ -1,0 +1,15 @@
+div{
+    margin-top: 350px;
+    margin-left: 39%;
+    font-size: 70px;
+    color: white;
+}
+
+button{
+    margin:2px 0px 0px 42%;
+    height: 45px;
+    width: 190px;
+    background-color: gray;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+}
